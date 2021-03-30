@@ -1,4 +1,4 @@
-![image](https://github.com/Ganeshuthiravasagam/Tuples-Set-Dictionaries-Functions/blob/main/Tuple.webp)
+![image](https://github.com/Ganeshuthiravasagam/Tuples-Set-Dictionaries-Functions/blob/main/Sets.jfif)
 # Tuples-Set-Dictionaries-Functions
 
 ## Question
