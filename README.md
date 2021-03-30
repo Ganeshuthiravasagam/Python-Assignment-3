@@ -1,83 +1,23 @@
-# Python-Assignment-3
+# Tuples-Set-Dictionaries-Functions
 
-#Question no 1.1
+## Question
 
-sum_total = 0
 
-def myreduce(List):
-    
-    for i in List:
-    
-        #filters even numbers
-                
-        if i%2==0:
-        
-            # reduce and sum those values 
-            
-            globals()["sum_total"]+=i
-    
-    return sum_total
 
-List = [8,9,2,3,1,2]
+- A) Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()
 
-myreduce(List)
+- B) Write a Python program to implement your own myfilter() function which works exactly like Python's built-in function filter()
 
-print(sum_total)
+- C) Implement List comprehensions to produce the following lists. Write List comprehensions to produce the following Lists
 
-#question 1.2
+                         ['A', 'C', 'A', 'D', 'G', 'I', ’L’, ‘ D’]
 
-sum_total = 0
+                         ['x', 'xx', 'xxx', 'xxxx', 'y', 'yy', 'yyy', 'yyyy', 'z', 'zz', 'zzz', 'zzzz']
 
-def myreduce(List):
+                         ['x', 'y', 'z', 'xx', 'yy', 'zz', 'xxx', 'yyy', 'zzz', 'xxxx', 'yyyy', 'zzzz']
 
-    
-    for i in List:
-        
-        if i%2==0:   
-        
-            print(i, end=",")
+                         [[2], [3], [4], [3], [4], [5], [4], [5], [6]] [[2, 3, 4, 5], [3, 4, 5, 6],
 
-List = [8,9,2,3,1,2]
+                         [4, 5, 6, 7], [5, 6, 7, 8]]
 
-myreduce(List)
-
-#Question 2
-#1 
-List ="xyz"
-
-final_list = [i*nums for i in List for nums in range(1,5)]
-
-print(final_list)
-
-#2
-List ="xyz"
-
-final_list = [i*nums for nums in range(1,5) for i in List]
-
-print(final_list)
-#3
-
-List =[2,3,4]
-
-final_list =[[i+nums] for i in List for nums in range(3)]
-
-print(final_list)
-            
-#4
-
-List =[2,3,4,5]
-
-final_list =[[i+nums for nums in range(4)]  for i in List ]
-
-print(final_list)
-
-#5
-
-List =[1,2,3]
-
-final_list = [(j,i) for i in List for j in List ]
-
-final_list
-        
-        
-    
+                         [(1, 1), (2, 1), (3, 1), (1, 2), (2, 2), (3, 2), (1, 3), (2, 3), (3, 3)]
