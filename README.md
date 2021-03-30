@@ -3,7 +3,6 @@
 ## Question
 
 
-
 - A) Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()
 
 - B) Write a Python program to implement your own myfilter() function which works exactly like Python's built-in function filter()
@@ -21,3 +20,12 @@
                          [4, 5, 6, 7], [5, 6, 7, 8]]
 
                          [(1, 1), (2, 1), (3, 1), (1, 2), (2, 2), (3, 2), (1, 3), (2, 3), (3, 3)]
+                         
+## ⭐Prerequisites
+
+- Ability to understand the logic of the question
+
+## ⭐ Tools required
+
+-  Python installed on your computer
+-  Jupyter Notebook
