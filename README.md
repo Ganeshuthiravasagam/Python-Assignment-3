@@ -1,14 +1,14 @@
+# Tuples-Set-Dictionaries-Functions 😉
+
 ![image](https://github.com/Ganeshuthiravasagam/Tuples-Set-Dictionaries-Functions/blob/main/Sets.jfif)
-# Tuples-Set-Dictionaries-Functions
 
-## Question
+## Question 👨‍🏫
 
+- 📌 Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce(). 
 
-- A) Write a Python Program to implement your own myreduce() function which works exactly like Python's built-in function reduce()
+- 📌 Write a Python program to implement your own myfilter() function which works exactly like Python's built-in function filter()
 
-- B) Write a Python program to implement your own myfilter() function which works exactly like Python's built-in function filter()
-
-- C) Implement List comprehensions to produce the following lists. Write List comprehensions to produce the following Lists
+- 📌 Implement List comprehensions to produce the following lists. Write List comprehensions to produce the following Lists
 
                          ['A', 'C', 'A', 'D', 'G', 'I', ’L’, ‘ D’]
 
